@@ -2,32 +2,32 @@ import { Monitor, Briefcase, FlaskConical, Building2, Cpu, HeartPulse } from "lu
 
 const industries = [
   {
-    image: "src/assets/images/tech.webp",
+    image: "/assets/images/tech.webp",
     title: "Information Technology",
     description: "Software development, cybersecurity, data science, and cloud solutions."
   },
   {
-    image: "src/assets/images/finance.jpg",
+    image: "/assets/images/finance.jpg",
     title: "Non-IT Corporate",
     description: "Finance, HR, marketing, operations, and administrative roles."
   },
   {
-    image: "src/assets/images/pharma.png",
+    image: "/assets/images/pharma.png",
     title: "Pharmaceutical",
     description: "R&D, clinical trials, regulatory affairs, and quality assurance."
   },
   {
-    image: "src/assets/images/brain.jpg",
+    image: "/assets/images/brain.jpg",
     title: "Healthcare",
     description: "Medical professionals, healthcare administration, and biotech."
   },
   {
-    image: "src/assets/images/manu.png",
+    image: "/assets/images/manu.png",
     title: "Manufacturing",
     description: "Engineering, production, supply chain, and quality control."
   },
   {
-    image: "src/assets/images/tech.png",
+    image: "/assets/images/tech.png",
     title: "Emerging Tech",
     description: "AI/ML, blockchain, IoT, and next-generation technologies."
   }

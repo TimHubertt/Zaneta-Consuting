@@ -10,7 +10,7 @@ const Header = () => {
         <div className="flex items-center justify-between h-16">
           <a href="/" className="h-[100px]">
            <img className="h-full w-auto object-contain"
- src="\src\assets\images\logo.svg" alt="logo" />
+ src="public\assets\images\logo.svg" alt="logo" />
           </a>
 
           <nav className="hidden md:flex items-center gap-8">

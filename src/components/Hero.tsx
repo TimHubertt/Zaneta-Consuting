@@ -8,7 +8,7 @@ const Hero = () => {
         loop
         muted
         className='absolute inset-0 w-full rounded-md h-full object-cover top-0 left-0'>
-        <source src="src\assets\bg.mp4" type="video/mp4" />
+        <source src="public\assets\bg.mp4" type="video/mp4" />
       </video>
 {/*       <div className="absolute inset-0 opacity-20">
         <svg className="w-full h-full" viewBox="0 0 1440 900" fill="none" xmlns="http://www.w3.org/2000/svg">
