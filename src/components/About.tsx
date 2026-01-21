@@ -35,7 +35,7 @@ const About = () => {
           
            {/* <img  src="src/assets/images/about.webp" alt="people walking around" /> */}
 
-           <video autoPlay loop muted>
+           <video className="mt-4" autoPlay loop muted>
             <source src="/assets/images/about-us.mp4" type="video/mp4" />
            </video>
         

@@ -13,7 +13,7 @@ const Footer = () => {
         <div className="flex flex-col md:flex-row justify-between items-center gap-8">
           <div>
             <h3 className="text-2xl font-bold text-foreground mb-2">
-              <img src="public\assets\images\logo.svg" alt="logo" />
+              <img src="/assets/images/logo.svg" alt="logo" />
             </h3>
             <p className="text-foreground/60">
               Connecting talent with opportunity.
